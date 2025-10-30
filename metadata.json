@@ -1,0 +1,9 @@
+{
+  "name": "InteractiveHtmlBomExcel",
+  "description": "Interactive HTML BOM mit Excel Export Funktion",
+  "version": "1.0.0",
+  "author": "Hamza Nassif",
+  "license": "MIT",
+  "repository": "https://github.com/noveraberlin/InteractiveHtmlBom",
+  "min_kicad_version": "6.0"
+}
